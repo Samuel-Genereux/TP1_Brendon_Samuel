@@ -25,7 +25,8 @@ réponse reçue, éléments repris et vérifications effectuées.
 
 - Branches : dev, et fonctionnalite/Menu-domaine
 - Pull requests : 
-- Commits significatifs :
+- Commits significatifs : 
+    Premier commit sgnificatif: ElementMenu et ces tests liés. 
 - Fonctionnalités :
 
 ## Vidéo individuelle
