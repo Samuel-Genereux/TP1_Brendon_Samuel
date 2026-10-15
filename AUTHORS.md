@@ -2,7 +2,7 @@
 
 | Prénom et nom | Matricule | Lot principal | Journal | Chemin individuel | Dépôt/commit |
 |---|---|---|---|---|---|
-| À remplir | À remplir | Commandes | JOURNAL_EQUIPIER_1.md | lots/Commandes | À remplir |
+| Brendon Rapoport | 2536588 | Commandes | JOURNAL_EQUIPIER_1.md | lots/Commandes | À remplir |
 | Samuel Généreux | 2539656 | Menu | JOURNAL_EQUIPIER_2.md | lots/Menu | À remplir |
 
 
