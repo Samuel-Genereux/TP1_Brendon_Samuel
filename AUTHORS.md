@@ -3,10 +3,10 @@
 | Prénom et nom | Matricule | Lot principal | Journal | Chemin individuel | Dépôt/commit |
 |---|---|---|---|---|---|
 | À remplir | À remplir | Commandes | JOURNAL_EQUIPIER_1.md | lots/Commandes | À remplir |
-| À remplir | À remplir | Menu | JOURNAL_EQUIPIER_2.md | lots/Menu | À remplir |
+| Samuel Généreux | 2539656 | Menu | JOURNAL_EQUIPIER_2.md | lots/Menu | À remplir |
 
-Pour une équipe de trois seulement, ajouter une ligne Réservations, `JOURNAL_EQUIPIER_3.md`, `lots/Reservations`. Adapter les numéros de journal si les lots sont attribués autrement, sans ambiguïté sur la personne responsable.
 
-- Lien du dépôt GitHub de l'équipe : 
-- Taille de l'équipe et attribution approuvées par l'enseignant :
+
+- Lien du dépôt GitHub de l'équipe : https://github.com/Samuel-Genereux/TP1_Brendon_Samuel.git
+- Taille de l'équipe et attribution approuvées par l'enseignant : 2
 - Commit final commun : 
