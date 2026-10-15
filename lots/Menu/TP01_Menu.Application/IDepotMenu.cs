@@ -7,4 +7,6 @@ public interface IDepotMenu
     void Ajouter(ElementMenu element);
     ElementMenu? Obtenir(int numero);
     IReadOnlyCollection<ElementMenu> ObtenirToutes();
+
+    IReadOnlyCollection<ElementMenu> Rechercher(string fragment);
 }
