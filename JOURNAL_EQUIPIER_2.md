@@ -2,9 +2,9 @@
 
 ## Identification
 
-- Prénom :
-- Nom :
-- Lot principal :
+- Prénom : Samuel 
+- Nom : Généreux
+- Lot principal : Menu
 
 ## Déclaration
 
@@ -13,7 +13,7 @@ de tests ou de diagrammes par une intelligence artificielle. Je confirme avoir
 désactivé GitHub Copilot et IntelliCode dans Visual Studio et ne pas avoir
 utilisé un autre assistant d’IA, sauf les exceptions déclarées ci-dessous. (Mettre un X dans la case pour confirmer.)
 
-[ ] Je déclare avoir respecté les règles de l’équipe et de l’enseignant, et avoir
+[X] Je déclare avoir respecté les règles de l’équipe et de l’enseignant, et avoir
 suivi les consignes données.
 
 ## Exceptions et aide reçue
@@ -23,8 +23,8 @@ réponse reçue, éléments repris et vérifications effectuées.
 
 ## Contributions
 
-- Branches :
-- Pull requests :
+- Branches : dev, et fonctionnalite/Menu-domaine
+- Pull requests : 
 - Commits significatifs :
 - Fonctionnalités :
 
