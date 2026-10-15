@@ -23,10 +23,11 @@ réponse reçue, éléments repris et vérifications effectuées.
 
 ## Contributions
 
-- Branches : dev, et fonctionnalite/Menu-domaine
+- Branches : dev, fonctionnalite/Menu-domaine, fonctionnalite/menu-infrstructure, fonctionnalite/menu-application
 - Pull requests : 
 - Commits significatifs : 
     Premier commit sgnificatif: ElementMenu et ces tests liés. 
+    Deuxième commit sgnificatif: DepotMenuMemoire et ces tests liés
 - Fonctionnalités :
 
 ## Vidéo individuelle
