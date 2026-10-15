@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7980334-8FD0-2EFD-8A19-7F494A6418DD}|TP01_Menu.Tests\\TP01_Menu.Tests.csproj|c:\\technique\\automne_26\\prog_objet\\tp1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\menu\\tp01_menu.tests\\testmenuapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7980334-8FD0-2EFD-8A19-7F494A6418DD}|TP01_Menu.Tests\\TP01_Menu.Tests.csproj|solutionrelative:tp01_menu.tests\\testmenuapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D658017-F65E-1C50-9E4E-6C57AB8EB3C0}|TP01_Menu.Application\\TP01_Menu.Application.csproj|c:\\technique\\automne_26\\prog_objet\\tp1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\menu\\tp01_menu.application\\ajouterelementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D658017-F65E-1C50-9E4E-6C57AB8EB3C0}|TP01_Menu.Application\\TP01_Menu.Application.csproj|solutionrelative:tp01_menu.application\\ajouterelementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D658017-F65E-1C50-9E4E-6C57AB8EB3C0}|TP01_Menu.Application\\TP01_Menu.Application.csproj|c:\\technique\\automne_26\\prog_objet\\tp1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\menu\\tp01_menu.application\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D658017-F65E-1C50-9E4E-6C57AB8EB3C0}|TP01_Menu.Application\\TP01_Menu.Application.csproj|solutionrelative:tp01_menu.application\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F8F149-D8DE-605C-72E4-40BCDA2834B3}|TP01_Menu.Domaine\\TP01_Menu.Domaine.csproj|c:\\technique\\automne_26\\prog_objet\\tp1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\menu\\tp01_menu.domaine\\elementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F8F149-D8DE-605C-72E4-40BCDA2834B3}|TP01_Menu.Domaine\\TP01_Menu.Domaine.csproj|solutionrelative:tp01_menu.domaine\\elementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D658017-F65E-1C50-9E4E-6C57AB8EB3C0}|TP01_Menu.Application\\TP01_Menu.Application.csproj|c:\\technique\\automne_26\\prog_objet\\tp1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\menu\\tp01_menu.application\\idepotmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D658017-F65E-1C50-9E4E-6C57AB8EB3C0}|TP01_Menu.Application\\TP01_Menu.Application.csproj|solutionrelative:tp01_menu.application\\idepotmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EDADE217-5E64-B934-597C-6A5C2463941E}|TP01_Menu.Infrastructure\\TP01_Menu.Infrastructure.csproj|c:\\technique\\automne_26\\prog_objet\\tp1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\menu\\tp01_menu.infrastructure\\depotmenumemoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDADE217-5E64-B934-597C-6A5C2463941E}|TP01_Menu.Infrastructure\\TP01_Menu.Infrastructure.csproj|solutionrelative:tp01_menu.infrastructure\\depotmenumemoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7980334-8FD0-2EFD-8A19-7F494A6418DD}|TP01_Menu.Tests\\TP01_Menu.Tests.csproj|c:\\technique\\automne_26\\prog_objet\\tp1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\menu\\tp01_menu.tests\\testmenudomaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7980334-8FD0-2EFD-8A19-7F494A6418DD}|TP01_Menu.Tests\\TP01_Menu.Tests.csproj|solutionrelative:tp01_menu.tests\\testmenudomaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4F8F149-D8DE-605C-72E4-40BCDA2834B3}|TP01_Menu.Domaine\\TP01_Menu.Domaine.csproj|c:\\technique\\automne_26\\prog_objet\\tp1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\menu\\tp01_menu.domaine\\elementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4F8F149-D8DE-605C-72E4-40BCDA2834B3}|TP01_Menu.Domaine\\TP01_Menu.Domaine.csproj|solutionrelative:tp01_menu.domaine\\elementmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,15 +42,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestMenuApplication.cs",
+              "DocumentMoniker": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Tests\\TestMenuApplication.cs",
+              "RelativeDocumentMoniker": "TP01_Menu.Tests\\TestMenuApplication.cs",
+              "ToolTip": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Tests\\TestMenuApplication.cs",
+              "RelativeToolTip": "TP01_Menu.Tests\\TestMenuApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:38:59.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AjouterElementMenu.cs",
+              "DocumentMoniker": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Application\\AjouterElementMenu.cs",
+              "RelativeDocumentMoniker": "TP01_Menu.Application\\AjouterElementMenu.cs",
+              "ToolTip": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Application\\AjouterElementMenu.cs",
+              "RelativeToolTip": "TP01_Menu.Application\\AjouterElementMenu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:32:09.945Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Application\\Result.cs",
+              "RelativeDocumentMoniker": "TP01_Menu.Application\\Result.cs",
+              "ToolTip": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Application\\Result.cs",
+              "RelativeToolTip": "TP01_Menu.Application\\Result.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:33:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDepotMenu.cs",
+              "DocumentMoniker": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Application\\IDepotMenu.cs",
+              "RelativeDocumentMoniker": "TP01_Menu.Application\\IDepotMenu.cs",
+              "ToolTip": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Application\\IDepotMenu.cs",
+              "RelativeToolTip": "TP01_Menu.Application\\IDepotMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-15T19:22:27.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TestMenuInfrastructure.cs",
               "DocumentMoniker": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Tests\\TestMenuInfrastructure.cs",
               "RelativeDocumentMoniker": "TP01_Menu.Tests\\TestMenuInfrastructure.cs",
@@ -42,12 +110,11 @@
               "RelativeToolTip": "TP01_Menu.Tests\\TestMenuInfrastructure.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T18:43:40.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T18:43:40.013Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "TestMenuDomaine.cs",
               "DocumentMoniker": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Tests\\TestMenuDomaine.cs",
               "RelativeDocumentMoniker": "TP01_Menu.Tests\\TestMenuDomaine.cs",
@@ -55,21 +122,19 @@
               "RelativeToolTip": "TP01_Menu.Tests\\TestMenuDomaine.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T18:14:17.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T18:14:17.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "DepotMenuMemoire.cs",
               "DocumentMoniker": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Infrastructure\\DepotMenuMemoire.cs",
               "RelativeDocumentMoniker": "TP01_Menu.Infrastructure\\DepotMenuMemoire.cs",
               "ToolTip": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Infrastructure\\DepotMenuMemoire.cs",
               "RelativeToolTip": "TP01_Menu.Infrastructure\\DepotMenuMemoire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-15T18:01:45.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-15T18:01:45.313Z"
             },
             {
               "$type": "Document",
@@ -79,7 +144,7 @@
               "RelativeDocumentMoniker": "TP01_Menu.Domaine\\ElementMenu.cs",
               "ToolTip": "C:\\TECHNIQUE\\AUTOMNE_26\\PROG_OBJET\\TP1\\2026a-pooii-a2026-pooii-tp01-group-2\\lots\\Menu\\TP01_Menu.Domaine\\ElementMenu.cs",
               "RelativeToolTip": "TP01_Menu.Domaine\\ElementMenu.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA8wC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAywBYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-15T17:57:46.107Z",
               "EditorCaption": ""
